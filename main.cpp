@@ -1,6 +1,6 @@
 
 
-void main(nt a){
+void main(int a){
 
 }
 
