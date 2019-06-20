@@ -1,6 +1,6 @@
 
 
-void main(void){
+void main(nt a){
 
 }
 
